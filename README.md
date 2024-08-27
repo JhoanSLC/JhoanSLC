@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jhoanslc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhoanslc" height="30" width="40" /></a>
-<a href="https://fb.com/jhoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhoan" height="30" width="40" /></a>
-<a href="https://instagram.com/jhoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhoan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jhoan-landazabal-22a412311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhoanslc" height="30" width="40" /></a>
+<a href="https://fb.com/jhoan.slc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhoan" height="30" width="40" /></a>
+<a href="https://instagram.com/jhoan.slc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhoan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
